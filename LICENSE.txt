@@ -1,0 +1,73 @@
+/*
+A Design by Template Stock
+Author: Template Stock
+Author URL: http://templatestock.co
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+----------------------------------
+NOTE : FREQUENTLY ASKED QUESTIONS 
+----------------------------------
+
+1. What is Template Stock?
+
+	Template Stock is an initiative of AgileITs to provide free web designs which are cross device supported.
+
+2. Is Template Stock Templates Really Free?
+
+	Yes, all our templates free to use for both commercial and non-commercial, but you have provide a back link to Template Stock.com which is already included in footer design by Template Stock.com don’t edit or remove it.
+
+3. I want to Help Template Stock, How can I?
+
+	You can help Template Stock By
+	1. Donate Some $’s, Any Amount your wish
+	2. Contribute Design inventory like stock photos, Icons or PSD designs with full rights to Template Stock
+
+4. I want to remove Template Stock.com back link from footer?
+
+	We have two plans for that per template and unlimited.
+	Donate us $10 per template. If you want templates for multiple domains or bulk templates please contact info@templatestock.co
+
+5. Will these templates work on iPhone, Android platforms, Tabs like kindle and Ipads?
+
+	Yes, Template Stock templates work with all Smartphones and Tablets. To, support all the devices we are providing bootstrap Responisve designs WEB Template.
+
+6. What is Web Template?
+
+	WEB template is a responsive design which can be used for desktop users. Users visiting website from desktop browsers can view WEB template
+
+
+7. Do I need a separate version for Smartphones and Tablets?
+
+	No, WEB Template is compatible in all web browsers, Smartphones and Tablets. 
+
+8. Do I need any database?
+
+	No, it is not necessary.
+
+
+11. Under which license you are providing these templates?
+
+	Template Stock templates are under Creative Commons Attribution 3.0 unported
+
+
+
+
+Lahir di Jerman, dibesarkan di New Jersey, dan selamanya dipenuhi dengan menjawab pertanyaan: Mengapa itu menarik? Mengambil gambar telah menjadi bagian dari hidup saya selama yang saya ingat. Sebagai seorang anak, saya secara rutin mencuri DSLR ayah saya untuk memotret chinchilla peliharaan saya dan anjing keluarga kami. Meskipun menciptakan gambar telah menjadi hasrat dan minat yang konstan, saya menghabiskan masa kuliah saya untuk mempelajari musik, sebagai penyanyi opera, dan metode akting Meisner di NYC. Ini mungkin tampak di luar topik, tetapi saya memperoleh wawasan yang tak terukur tentang apa artinya bekerja keras, dengan semangat, visi, niat, dan seni. Pekerjaan saya adalah obsesi, jadi setiap hari dan setiap pemotretan adalah kesempatan untuk belajar dan mengembangkan keahlian saya lebih jauh - menemukan lebih banyak tentang diri saya, dan sesama penduduk bumi.
+
+Saya terutama memotret digital, tetapi saya juga menyukai pekerjaan analog dan kamar gelap. Portofolio saya menampilkan beberapa gambar favorit dari beberapa tahun terakhir; Saya berusaha untuk membuat foto yang tidak hanya mengabadikan momen, tetapi juga menangkap perasaan dan esensi.
+
+Saya tersedia untuk sesi potret pribadi, serta acara di Lembah Delaware dan wilayah Metropolitan New York -- meskipun saya juga akan sangat tertarik untuk mengerjakan lokasi di tempat lain. Cetakan karya pribadi saya juga tersedia.
+
+Saya ingin mendengar dari Anda, jadi jangan ragu untuk menghubungi saya.
+
+Terima kasih telah meluangkan waktu untuk melihat situs dan pekerjaan saya; Saya berharap dapat bertemu dengan Anda dalam waktu dekat.
+
+
+Didirikan oleh tiga orang remaja yang ketiganya adalah anak sulung, dan dari situlah nama TigaSulung diambil. kami bertiga lahir dan dibesarkan di kota Semarang lalu bertemu
+saat memasuki bangku SMA. kami bertiga memiliki kesamaan hobi dalam bidang fotografi dan videografi. Mengapa itu menarik? Mengambil gambar sudah menjadi bagian dari hidup 
+kami selama ini. Meskipun  menciptakan gambar telah menjadi hasrat dan minat yang konstan, beberapa dari kami juga menghabiskan masa SMA untuk mempelajari desain grafis dan 
+pemograman. 
+Ini mungkin tampak di luar topik, tetapi kami memperoleh wawasan yang tak terukur tentang apa artinya bekerja keras, dengan semangat, visi, niat, dan seni. Pekerjaan 
+kami adalah obsesi, jadi setiap hari dan setiap pemotretan adalah kesempatan untuk belajar dan mengembangkan keahlian saya lebih jauh - menemukan lebih banyak tentang diri kami, dan sesama manusia.
+
